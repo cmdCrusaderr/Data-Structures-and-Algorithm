@@ -5,14 +5,24 @@ This repository contains my solutions and code examples for various data structu
 
 Table of Contents
 
-Arrays
-Linked Lists
-Trees
-Graphs
-Sorting Algorithms
-Searching Algorithms
-Dynamic Programming
-Recursion
-Backtracking
-Greedy Algorithms
+- Arrays  
+
+- Linked Lists
+
+- Trees
+
+- Graphs
+
+- Sorting Algorithms
+
+- Searching Algorithms
+
+- Dynamic Programming
+
+- Recursion
+
+- Backtracking
+
+- Greedy Algorithms
+
 ( and many more )
