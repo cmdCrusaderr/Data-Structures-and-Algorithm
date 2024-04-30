@@ -1,0 +1,1 @@
+//the stack works on the principle of lifo - last in first out

@@ -1,0 +1,6 @@
+#following are the notes for time and space complexity :
+1. always calculate time complexity in worst case possible
+2. avoid constants
+3. avoid lower values
+
+#Big o-notation : upperbound / worst case
