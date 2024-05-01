@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/nishanttekwani/Documents/GitHub/Untitled/Data-Structures-and-Algorithm/linked-lists/output/singly_linked_l'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003DDC, symSize: 0xDC }
+  - { offsetInCU: 0x2E56, offset: 0x2E56, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003DDC, symSize: 0xDC }
+  - { offsetInCU: 0x2ED2, offset: 0x2ED2, size: 0x8, addend: 0x0, symName: __ZN4nodeC1EiPS_, symObjAddr: 0xDC, symBinAddr: 0x100003EB8, symSize: 0x3C }
+  - { offsetInCU: 0x2F16, offset: 0x2F16, size: 0x8, addend: 0x0, symName: __ZN4nodeC2EiPS_, symObjAddr: 0x118, symBinAddr: 0x100003EF4, symSize: 0x2C }
+...

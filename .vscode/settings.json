@@ -3,5 +3,8 @@
         "minimap.background": "#00000000",
         "scrollbar.shadow": "#00000000"
     },
-    "C_Cpp.errorSquiggles": "disabled"
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }
